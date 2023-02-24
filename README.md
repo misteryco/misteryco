@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misteryco
 - 👀 I’m interested in programming with Python and Django 
-- 🌱 I’m currently learning both ( Python and Django)
+- 🌱 I’m currently learning ( HTML CSS and JavaScript)
 - 💞️ I’m looking to collaborate on intersting projects with Django or Python.
 
 <!---
